@@ -15,15 +15,15 @@
 
 ## 🧠 About Me
 
-I'm a data scientist and ML engineer finishing my **Master of Data Science at UBC (2025–2026)**, with 3 years of industry experience at **JLL Guangzhou** building LLM pipelines, OCR scrapers, and computer vision models on street-view real estate imagery.
+I'm a data scientist and ML engineer finishing my **Master of Data Science at UBC (2025–2026)**, with 3 years of industry experience at **JLL Technologies** building LLM pipelines, OCR scrapers, and computer vision models on street-view real estate imagery.
 
 I'm drawn to problems at the intersection of **perception**, **reasoning**, and **real-world deployment** — think autonomous vehicles, robotics, and spatial AI.
 
-- 🎓 BCom (IT) @ Toronto Metropolitan University · MDS @ UBC
+- 🎓 BCom (BTM) @ Toronto Metropolitan University · MDS @ UBC
 - 🏢 Previously: Business Data Analyst → Data Scientist → Data Scientist II @ JLL
 - 🔭 Current: **MooVision** — multi-object tracking + temporal modeling for dairy calf behavior detection (UBC Capstone)
 - 🚗 Obsessed with self-driving cars, robotics, and VR
-- ⛳ Off the clock: golf, skiing, R&B music, and 3 cats
+- ⛳ Off the clock: golf, skiing, swimming, hicking, R&B music, and 3 cats
 
 ---
 
@@ -59,21 +59,7 @@ Building an end-to-end CV pipeline that identifies and classifies behavioral sta
 
 ---
 
-### 🌐 English → Chinese Translation Agent
-> Ollama · Gemma 4 (local) · Prompt Engineering
-
-A local LLM-powered translation agent designed to handle functional grammar nuances for Chinese speakers educated in academic English — preserving register, tone, and idiom fidelity that generic translators miss.
-
----
-
-### 🏙️ Street-View Real Estate Intelligence (JLL)
-> OCR · Computer Vision · LLM Pipelines · Guangzhou Commercial Property
-
-Led development of automated CV models extracting property data from street-level imagery at scale, reducing manual data collection time by 60%+ across JLL's Guangzhou portfolio.
-
----
-
-## 📊 Boot.dev Progress
+## 📊 Boot.dev Progress, Gamify Learning Makes Me Happy!!!
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/de8edbc9-1819-4ab6-9be9-316a78ffc011/thumbnail" />
@@ -84,9 +70,9 @@ Led development of automated CV models extracting property data from street-leve
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raymondww&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondww&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
