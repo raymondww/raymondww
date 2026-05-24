@@ -15,9 +15,9 @@
 
 ## 🧠 About Me
 
-I'm a data scientist and ML engineer finishing my **Master of Data Science at UBC (2025–2026)**, with 3 years of industry experience at **JLL Guangzhou** building LLM pipelines, OCR scrapers, and computer vision models on street-view real estate imagery.
+I'm a data scientist and ML engineer finishing my **Master of Data Science at UBC (2025–2026)**, with 3 years of industry experience at **JLL Technologies** building LLM pipelines, OCR scrapers, and computer vision models on street-view real estate imagery.
 
-I'm drawn to problems at the intersection of **perception**, **reasoning**, and **real-world deployment** — think autonomous vehicles, robotics, and spatial AI.
+I'm drawn to problems at the intersection of **perception**, **reasoning**, and **real-world deployment**.
 
 - 🎓 BCom (IT) @ Toronto Metropolitan University · MDS @ UBC
 - 🏢 Previously: Business Data Analyst → Data Scientist → Data Scientist II @ JLL
