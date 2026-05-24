@@ -23,7 +23,7 @@ I'm drawn to problems at the intersection of **perception**, **reasoning**, and 
 - 🏢 Previously: Business Data Analyst → Data Scientist → Data Scientist II @ JLL
 - 🔭 Current: **MooVision** — multi-object tracking + temporal modeling for dairy calf behavior detection (UBC Capstone)
 - 🚗 Obsessed with self-driving cars, robotics, and VR
-- ⛳ Off the clock: golf, skiing, R&B music, and 3 cats
+- ⛳ Off the clock: golf, skiing, swimming, workout, tennis, R&B music, and 3 cats
 
 ---
 
@@ -32,8 +32,8 @@ I'm drawn to problems at the intersection of **perception**, **reasoning**, and 
 | Degree / Certificate | Institution | Year |
 |---|---|---|
 | Master of Data Science | University of British Columbia | 2025–2026 |
-| MicroMasters® — Statistics & Data Science | MITx via edX | 2024 |
-| BCom — Information Technology | Toronto Metropolitan University | 2021 |
+| MicroMasters® — Statistics & Data Science | MITx via edX | 2023-2025 |
+| BCom — Information Technology | Toronto Metropolitan University | 2016-2021 |
 
 ---
 
@@ -97,5 +97,5 @@ Building an end-to-end CV pipeline that identifies and classifies behavioral sta
 ---
 
 <p align="center">
-  <i>"Build things that move — code, ideas, or vehicles."</i>
+  <i>"Do hard things."</i>
 </p>
