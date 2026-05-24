@@ -86,15 +86,6 @@ Building an end-to-end CV pipeline that identifies and classifies behavioral sta
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raymondww&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raymondww&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>"Do hard things."</i>
