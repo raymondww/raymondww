@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Raymond (Wenrui) Wang 👋</h1>
+<h1 align="center">Hey, I'm Raymond (Wenrui) Wang </h1>
 
 <p align="center">
   <b>MDS @ UBC · Data Science · ML Engineer · Computer Vision · Autonomous Systems</b><br/>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a data scientist and ML engineer finishing my **Master of Data Science at UBC (2025–2026)**, with 3 years of industry experience at **JLL Technologies** building LLM pipelines, OCR scrapers, and computer vision models on street-view real estate imagery.
 
