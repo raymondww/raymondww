@@ -19,7 +19,6 @@ I'm a data scientist and ML engineer finishing my **Master of Data Science at UB
 
 I'm drawn to problems at the intersection of **perception**, **reasoning**, and **real-world deployment**.
 
-- 🎓 BCom (IT) @ Toronto Metropolitan University · MDS @ UBC
 - 🏢 Previously: Business Data Analyst → Data Scientist → Data Scientist II @ JLL
 - 🔭 Current: **MooVision** — multi-object tracking + temporal modeling for dairy calf behavior detection (UBC Capstone)
 - 🚗 Obsessed with self-driving cars, robotics, and VR
@@ -37,7 +36,7 @@ I'm drawn to problems at the intersection of **perception**, **reasoning**, and 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -69,7 +68,7 @@ I'm drawn to problems at the intersection of **perception**, **reasoning**, and 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🐄 MooVision — Dairy Calf Behavior Detection
 > UBC MDS Capstone · Computer Vision · Multi-Object Tracking · Temporal Modeling
