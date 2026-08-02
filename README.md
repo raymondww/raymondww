@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Raymond (Wenrui) Wang </h1>
 
 <p align="center">
-  <b>MDS @ UBC · Data Science · ML Engineer · Computer Vision · Autonomous Systems</b><br/>
-  <i>Vancouver, BC &nbsp;|&nbsp; Trilingual: English · Mandarin · Cantonese</i>
+  <b>MDS @ UBC · Data Science · ML Engineer</b><br/>
+  <i>Anywhere &nbsp;|&nbsp; Trilingual: English · Mandarin · Cantonese</i>
 </p>
 
 <p align="center">
