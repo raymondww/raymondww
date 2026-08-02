@@ -15,13 +15,11 @@
 
 ## About Me
 
-I'm a data scientist and ML engineer finishing my **Master of Data Science at UBC (2025–2026)**, with 3 years of industry experience at **JLL Technologies** building LLM pipelines, OCR scrapers, and computer vision models on street-view real estate imagery.
+I am passionate about ML/RL, computer vision, and the intersection of AI and the physical world. Always building something.
 
-I'm drawn to problems at the intersection of **perception**, **reasoning**, and **real-world deployment**.
-
-- 🏢 Previously: Business Data Analyst → Data Scientist → Data Scientist II @ JLL
-- 🔭 Current: **MooVision** — multi-object tracking + temporal modeling for dairy calf behavior detection (UBC Capstone)
-- ⛳ Off the clock: golf, skiing, swimming, workout, tennis, R&B music, and 3 cats
+- Previously: Data Scientist II @ JLL
+- Current: **MooVision** — multi-object tracking + temporal modeling for dairy calf behavior detection
+- Off the clock: golf, skiing, swimming, workout, tennis, R&B music, and 3 cats
 
 ---
 
@@ -72,7 +70,7 @@ I'm drawn to problems at the intersection of **perception**, **reasoning**, and 
 ### 🐄 MooVision — Dairy Calf Behavior Detection
 > UBC MDS Capstone · Computer Vision · Multi-Object Tracking · Temporal Modeling
 
-Building an end-to-end CV pipeline that identifies and classifies behavioral states in dairy calves from video footage, combining MOT with sequence-aware classifiers for real-time farm analytics.
+Built an end-to-end CV pipeline that identifies and classifies behavioral states in dairy calves from video footage, combining MOT with sequence-aware classifiers for real-time farm analytics.
 
 ---
 
