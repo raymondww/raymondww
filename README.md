@@ -74,15 +74,6 @@ Built an end-to-end CV pipeline that identifies and classifies behavioral states
 
 ---
 
-## 📊 Boot.dev Progress (Give me XP and I'll learn literally anything.)
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/de8edbc9-1819-4ab6-9be9-316a78ffc011/thumbnail" />
-</p>
-
----
-
-
 <p align="center">
   <i>"Do hard things."</i>
 </p>
