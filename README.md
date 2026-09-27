@@ -18,7 +18,7 @@
 I am passionate about ML/RL, computer vision, and the intersection of AI and the physical world. Always building something.
 
 - Previously: Data Scientist II @ JLL
-- Current: **MooVision** — multi-object tracking + temporal modeling for dairy calf behavior detection
+- Current: Building...
 - Off the clock: golf, skiing, swimming, workout, tennis, R&B music, and 3 cats
 
 ---
